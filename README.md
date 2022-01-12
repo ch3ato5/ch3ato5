@@ -4,8 +4,6 @@
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=nat2k15&label=Views&color=blue&style=plastic)
 
-[![NAT Badge](https://img.shields.io/badge/TEAM-NAT2K15%20DEVELOPMENT-17a6ec?style=for-the-badge)](https://github.com/ch3ato)
-
 
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
